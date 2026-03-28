@@ -1,4 +1,4 @@
-# 💻 Unit 02: OS Explorer — The Architecture of Modern Computing
+# 💻 OS Explorer — The Architecture of Modern Computing
 
 ## 📝 Executive Summary
 This unit explores the fundamental role of the **Operating System (OS)** as the primary mediator between hardware resources (CPU, RAM, Storage) and software applications. Through 20 hands-on labs in a Linux-based Google Colab environment, I investigated how different OS architectures manage concurrent processes, enforce security through permissions, and leverage virtualization technologies like Docker and Virtual Machines.
