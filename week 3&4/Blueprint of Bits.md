@@ -1,4 +1,4 @@
-# Unit 1: Blueprint of Bits – Complete Architect’s Log 🏗️
+# Blueprint of Bits – Complete Architect’s Log 🏗️
 
 This repository serves as a technical breakdown of **Unit 1: Blueprint of Bits**. It covers the journey from the physical physics of memory hardware to the logical abstraction of bitwise programming and data security.
 
