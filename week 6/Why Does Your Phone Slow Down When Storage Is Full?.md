@@ -67,10 +67,7 @@ Understanding this hardware allows for better digital hygiene:
 
 ---
 
-## 📊 Lab Execution Results
-Below are the consolidated outputs from my Google Colab simulations (Lab 1–20).
-
-![INSERT_YOUR_LAB_SCREENSHOT_HERE]
+## 📊 Lab Execution Results(at next file)
 
 ---
 **Author:** [Your Name]  
