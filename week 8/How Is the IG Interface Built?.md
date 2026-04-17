@@ -73,6 +73,14 @@ As a Data Science major, why does this matter?
 
 ## 📊 Lab Gallery: Visualizing the Code(at next file)
 
+## Final mission
+### 1、4、6、7 at next file
+###  8.Find 3 websites that look different on phone vs desktop
+#### APPLE, Netflix, Youtube
+###  9.Inspect any website with Chrome DevTools (F12) — find 3 the CSS elements
+#### display: flex、background-color、font-family
+### 10. Design a dark mode color palette for your favorite app
+<img width="1884" height="897" alt="image" src="https://github.com/user-attachments/assets/2608c14d-a12c-40a3-abf9-87c014a2bcd4" />
 
 **Focus:** UI/UX Engineering & Front-End Logic  
 **Date:** 17 April 2026
