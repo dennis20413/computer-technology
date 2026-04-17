@@ -68,8 +68,3 @@ Understanding this hardware allows for better digital hygiene:
 ---
 
 ## 📊 Lab Execution Results(at next file)
-
----
-**Author:** [Your Name]  
-**Major:** Data Science / Quantitative Finance  
-**Date:** March 2026
