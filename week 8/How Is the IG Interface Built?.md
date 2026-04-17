@@ -74,6 +74,5 @@ As a Data Science major, why does this matter?
 ## 📊 Lab Gallery: Visualizing the Code(at next file)
 
 
---- 
 **Focus:** UI/UX Engineering & Front-End Logic  
 **Date:** 17 April 2026
