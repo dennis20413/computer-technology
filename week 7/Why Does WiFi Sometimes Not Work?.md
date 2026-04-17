@@ -1,4 +1,4 @@
-# Unit 4: Why Does WiFi Sometimes Not Work? 
+# Why Does WiFi Sometimes Not Work? 
 ### 🌐 A Data Science Perspective on Network Architecture & Troubleshooting
 
 ## 🎯 The Core Problem: "Connected, No Internet"
