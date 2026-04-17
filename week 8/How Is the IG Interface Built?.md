@@ -71,10 +71,7 @@ As a Data Science major, why does this matter?
 
 ---
 
-## 📊 Lab Gallery: Visualizing the Code
-<img width="1807" height="685" alt="image" src="https://github.com/user-attachments/assets/70902016-7318-468d-85f6-54c31bcee03c" />
-<img width="1809" height="736" alt="image" src="https://github.com/user-attachments/assets/7802bc13-de13-4eca-bc76-4fa174f0e58f" />
-<img width="1810" height="772" alt="image" src="https://github.com/user-attachments/assets/cab0dde0-4228-4425-af6b-0a06034cafaa" />
+## 📊 Lab Gallery: Visualizing the Code(at next file)
 
 
 --- 
