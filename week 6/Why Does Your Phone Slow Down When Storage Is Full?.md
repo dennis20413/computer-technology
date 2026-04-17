@@ -1,4 +1,4 @@
-# Unit 3: Why Does Your Phone Slow Down When Storage Is Full?
+# Why Does Your Phone Slow Down When Storage Is Full?
 ## Decoding SSD Architecture, File Systems, and Virtual Memory
 
 ### 🎯 The Core Mystery: The 1GB Lag
