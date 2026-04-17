@@ -73,7 +73,8 @@ As a Data Science major, why does this matter?
 
 ## 📊 Lab Gallery: Visualizing the Code(at next file)
 
-## Final mission
+---
+# Final mission
 ### 1、4、6、7 at next file
 ###  8.Find 3 websites that look different on phone vs desktop
 #### APPLE, Netflix, Youtube
